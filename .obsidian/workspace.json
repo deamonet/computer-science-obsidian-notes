@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "ad7b2fc9e08e099a",
+    "type": "split",
+    "children": [
+      {
+        "id": "453d7b2573de7f7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a84dbf49d5a0fa0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "410e7c362752a58f",
+    "type": "split",
+    "children": [
+      {
+        "id": "481bcfdd6f66abcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97b3fa8a9b745369",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6d2c631f55d78c67",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f5677fec388ee17d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 226.5
+  },
+  "right": {
+    "id": "52ccb4286a47f729",
+    "type": "split",
+    "children": [
+      {
+        "id": "f415f3272419304d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdaaf24ad8092426",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "7a84dbf49d5a0fa0",
+  "lastOpenFiles": [
+    "实用技巧/Fastcopy的简单使用.md",
+    "实用技巧/批量删除电脑上客厅的奇异果媒体设备.md",
+    "Linux/arch linux reset network settings.md",
+    "实用技巧/设置vscodium采用微软官方扩展源.md",
+    "实用技巧/音频转换/bilibili下载视频格式转换代码.md",
+    "实用技巧/RSS.md",
+    "文本符号/Unix Linux Mac 与 Windows 的换行符不统一的原因或目的是什么？.md",
+    "家用",
+    "编程/编程语言/Java",
+    "文本符号",
+    "文本符号/为什么使用空格字符的程序员瞧不起用 tab 字符的程序员？.md",
+    "编程",
+    "文本符号/输入法",
+    "Pasted image 20230918002733.png",
+    "编程/编程语言/RUST/Rust 是否过度限制了程序员的能力发挥呢？.md",
+    "编程/编程语言/RUST",
+    "media/LSZH.png",
+    "编程/编程语言/Java/既然Java反射可以访问和修改私有成员变量，那封装成private还有意义么？.md",
+    "NAS/磁带机入门指南（基于 Windows 系统）.md",
+    "media/832a84c19e76be14a6fd4aab36e8c27049bab1f6.png@615w_246h_progressive.webp",
+    "media/710d0fe4c7bb6ae7ef7e37c35d8be3ce419ff710.png@942w_548h_progressive.webp",
+    "media/459f0c16e7f120b0f5a980c1f1f367f9723059e7.png@942w_548h_progressive.webp",
+    "media/a060b897f730f978208aae53254bd268512b796c.png@942w_968h_progressive.webp",
+    "media/d1761520cfebd7a594ee4cee56f245bc44b5a8dd.png@942w_548h_progressive.webp",
+    "media/db520ddb543b4b71b2c7c2ca5afda0d5f92ebf4e.png@942w_921h_progressive.webp",
+    "media/e5259a1b77217303687da9af9f3c9651a228dd16.png@942w_689h_progressive.webp",
+    "media/5b37fcd06c863d64e79e4a9ad4836da29cc3e46c.png@942w_582h_progressive.webp",
+    "NAS/家用存储 NAS 还是磁带机？.md",
+    "编程/编程语言/RUST/如何看待 Rust 这门语言？.md",
+    "NAS",
+    "编程/垃圾代码是这样的/没写过被祭天的大 bug，只写过一些让同事无法维护的代码.md",
+    "为什么前端老觉得后端简单？.md",
+    "编程/垃圾代码是这样的",
+    "文本符号/字体/思源黑体安装指南.md",
+    "文本符号/字体",
+    "资源/盗版网站.md",
+    "实用技巧/Ryujinx安装使用教程.md",
+    "资源",
+    "实用技巧/yuzu模拟器安装使用教程(持续更新).md",
+    "在一些开源框架中，dist文件夹是什么意思.md",
+    "疑难杂症/Untitled.md",
+    "问题/win10任务栏图标空白的解决方案.md",
+    "编程/编程魔术/程序员有很厉害，不外传的代码吗？.md",
+    "实用技巧/Time to upgrade your monitor.md",
+    "Linux/PATH (variable).md",
+    "Linux动手实验 1.md"
+  ]
+}
